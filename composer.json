@@ -1,0 +1,11 @@
+{
+    "name": "stein/project",
+    "description": "Stein's project",
+    "type": "project",
+    "license": "MIT",
+    "prefer-stable": true,
+    "require": {
+        "brendt/stitcher": "dev-master",
+        "pageon/stitcher-fb-events": "dev-master"
+    }
+}

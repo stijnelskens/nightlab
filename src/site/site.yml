@@ -1,0 +1,14 @@
+/:
+    template: home
+
+/events:
+    template: events
+    variables:
+        events: data/_fb_events.yml
+    adapters:
+        order:
+            events:
+                field: start_time
+        pagination:
+            variable: events
+            entriesPerPage: 10
