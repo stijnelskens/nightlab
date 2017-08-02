@@ -1,0 +1,79 @@
+%ext-default-nav {
+  ul {
+    @include listreset;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+%ext-horizontal-nav {
+  ul {
+    @include cf;
+  }
+  li {
+    float: left;
+  }
+}
+
+
+.nav {
+  &--service {
+    @extend %ext-default-nav;
+    @extend %ext-horizontal-nav;
+    @include fsRem(14px);
+    float: right;
+    margin-top: $rh-xsm;
+    line-height: 1;
+    li {
+      padding: 0 $rh-xsm;
+      + li {
+        border-left: 1px solid;
+      }
+    }
+    a {
+      @include link-variant($color-text, $color-primary);
+    }
+  } // end .--service
+
+  &--main {
+    @extend %ext-default-nav;
+    @extend %ext-horizontal-nav;
+    li {
+      margin: 0 $rh-sml;
+    }
+    a {
+      @include link-variant($color-text, $color-primary);
+      display: block;
+      padding: $rh-xxs 0;
+      background-image: linear-gradient(to right, $color-primary, $color-primary);
+      background-repeat: no-repeat;
+      background-position: center bottom;
+      background-size: 0 2px;
+      &:hover,
+      &:focus,
+      &.active {
+        background-size: 100% 2px;
+      }
+    }
+  } // end .--main
+
+  &--language {
+    @extend %ext-default-nav;
+    @extend %ext-horizontal-nav;
+    float: right;
+    font-weight: $font-weight-bold;
+    line-height: 1;
+    text-transform: uppercase;
+    a {
+      @include link-variant($white);
+      display: block;
+      padding: $rh-xsm;
+      background: $gray-100;
+      &:hover,
+      &:focus,
+      &.active {
+        background: $color-primary;
+      }
+    }
+  } // end .--language
+}

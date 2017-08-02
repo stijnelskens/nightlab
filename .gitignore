@@ -5,3 +5,5 @@ vendor/
 /public/img/
 /dev/img/
 .cache
+*.sublime-project
+*.sublime-workspace

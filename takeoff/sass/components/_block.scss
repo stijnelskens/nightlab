@@ -1,0 +1,23 @@
+@mixin block-rhythm() {
+  & + & {
+    margin-top: $rh-sml;
+  }
+}
+
+.block {
+  display: block;
+  &--panel {
+    background: $gray-0;
+    padding: $rh-sml;
+    @include breakpoint(map-get($breakpoints, lrg)) {
+      padding: $rh-med;
+    }
+  }
+  &__section {
+    & + & {
+      margin-top: $rh-sml;
+    }
+  }
+
+  @include block-rhythm;
+}

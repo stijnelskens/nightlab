@@ -6,6 +6,8 @@
     "prefer-stable": true,
     "require": {
         "brendt/stitcher": "dev-master",
-        "pageon/stitcher-fb-events": "dev-master"
+        "pageon/stitcher-fb-events": "dev-master",
+        "mmucklo/krumo": "dev-master#944b2fc6b301f9f53b9ec2cb80024dee691d998b",
+        "pageon/stitcher-core": "@beta"
     }
 }

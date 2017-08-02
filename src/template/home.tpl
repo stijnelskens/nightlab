@@ -1,9 +1,5 @@
 {extends 'index.tpl'}
 
-{block 'head' append}
-    {css src='css/home.scss' inline=true}
-{/block}
-
 {block 'header'}{/block}
 
 {block 'body'}

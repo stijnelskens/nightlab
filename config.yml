@@ -23,9 +23,12 @@ fb.events.access.token: 2308023792756516|bF39S1ObF4NGZnMMw6C3wEZRq_E
 fb.events.pages:
     - 52796158499
     - 281308288730977
+    - 16453782010
+    - 934239246594888
+    - 217246480168
 
-fb.events.days.past: 1
-fb.events.days.future: 31
+fb.events.days.past: 7
+fb.events.days.future: 7
 fb.events.file: data/_fb_events.yml
 
 # Configure the paths of several directories
@@ -47,7 +50,7 @@ meta:
     viewport: width=device-width, initial-scale=1
 
 # Minify CSS and JavaScript
-minify: true
+minify: false
 
 # Configure engines
 engines:

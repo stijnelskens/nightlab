@@ -1,4 +1,36 @@
 entries:
+    1892511501007152:
+        id: '1892511501007152'
+        name: 'TPIA with Phillip Norr - Deltano - Michael Thoelen'
+        description: "Each month we give you multiple opportunities to let the beast inside of you go! You can roar, you can howl, you can make noises we've never heard before. \n\nAt our #TPIA resident nights you have a valid reason to dance without boundaries and to enjoy quality house and techno music all night long! \n\nAnimal trainers at your service this night are:\n- Phillip Norr\n- Deltano\n- Michael Thoelen\n\nWe are not responsible for future animalistic behavior but in case you do transform let us know on Facebook or Instagram with the hashtag #TPIA !\n\nSecond Room: Bass Balcony by Deejay Mad-d, DJ UNEAK and Deejay Pilé Air"
+        place:
+            name: 'Café d''Anvers (Official)'
+            location:
+                city: Antwerp
+                country: Belgium
+                latitude: 51.22624
+                longitude: 4.40421
+                street: 'Verversrui 15'
+                zip: '2000'
+            id: '52796158499'
+        timezone: Europe/Brussels
+        start_time: '2017-06-03T23:00:00+0200'
+    1363580190398737:
+        id: '1363580190398737'
+        name: 'The Best Of: 28 Years of Café d''Anvers'
+        description: "On Friday 2 June, we turn back in time with a best of 28 years (fpieuw, already?!) Café d'Anvers. This night a selection of our residents will play their favorite Café d'Anvers tracks from then and now. Join us for this journey through time :)\n\nMain Room:\nPierre\nDeeJay Smos\nDJ PRINZ\nSherø fka D'Steph"
+        place:
+            name: 'Café d''Anvers (Official)'
+            location:
+                city: Antwerp
+                country: Belgium
+                latitude: 51.22624
+                longitude: 4.40421
+                street: 'Verversrui 15'
+                zip: '2000'
+            id: '52796158499'
+        timezone: Europe/Brussels
+        start_time: '2017-06-02T23:00:00+0200'
     1937805606456230:
         id: '1937805606456230'
         name: 'TPIA with Flapjackers - Ugur Yurt - Cashmere'
@@ -46,128 +78,17 @@ entries:
             id: '52796158499'
         timezone: Europe/Brussels
         start_time: '2017-05-25T23:00:00+0200'
-    428676400813819:
-        id: '428676400813819'
-        name: 'Café d''Anvers presents Kölsch'
-        description: "Café d’Anvers presents:\n\nMain Room\nKölsch (extended set)\nsupport by Bollen & Fichtner\n\n▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\nOhw yeah, he's BACK!\nCafé d'Anvers presents Kölsch for another legendary, extra long set.\n\nThose who have witnessed it before, know that this man's yearly visit to our church is always one of the highlights of the year. \nDon't miss out.\n\nTickets on sale April 25 at 21h!"
-        place:
-            name: 'Café d''Anvers (Official)'
-            location:
-                city: Antwerp
-                country: Belgium
-                latitude: 51.22624
-                longitude: 4.40421
-                street: 'Verversrui 15'
-                zip: '2000'
-            id: '52796158499'
-        timezone: Europe/Brussels
-        start_time: '2017-05-20T23:00:00+0200'
-    1418237094900699:
-        id: '1418237094900699'
-        name: 'Pompers Kollektiv with Olivier Giacomotto (FR , Suara, Tronic)'
-        description: "On may 19th we bring you French Dj and Producer Olivier Giacomotto. \n\nWith releases on labels like Suara , Toolroom , Tronic and Noir Music he's the perfect headliner for our next event at Café d'Anvers.\n\nCheck out here his set he played at BPM Festival 2017!\nhttps://soundcloud.com/oliviergiacomotto/live-at-bpm-festival-2017?in=oliviergiacomotto/sets/mixes\n\nUntil then: Don't walk , Dance!"
-        place:
-            name: 'Café d''Anvers (Official)'
-            location:
-                city: Antwerp
-                country: Belgium
-                latitude: 51.22624
-                longitude: 4.40421
-                street: 'Verversrui 15'
-                zip: '2000'
-            id: '52796158499'
-        timezone: Europe/Brussels
-        start_time: '2017-05-19T23:00:00+0200'
-    1605737569458444:
-        id: '1605737569458444'
-        name: 'Super Thursdays'
-        place:
-            name: 'Café d''Anvers (Official)'
-            location:
-                city: Antwerp
-                country: Belgium
-                latitude: 51.22624
-                longitude: 4.40421
-                street: 'Verversrui 15'
-                zip: '2000'
-            id: '52796158499'
-        timezone: Europe/Brussels
-        start_time: '2017-05-18T23:00:00+0200'
-    1684574808509603:
-        id: '1684574808509603'
-        name: 'TPIA with Axel Haube - Nukov & Yelmet - Pudde'
-        description: "Each month we give you multiple opportunities to let the beast inside of you go! You can roar, you can howl, you can make noises we've never heard before. \n\nAt our #TPIA resident nights you have a valid reason to dance without boundaries and to enjoy quality house and techno music all night long! \n\nAnimal trainers at your service this night are:\n- Axel Haube\n- Nukov & Yelmet\n- Pudde\nWe are not responsible for future animalistic behavior but in case you do transform let us know on Facebook or Instagram with the hashtag #TPIA !\n\nSecond Room: Bass Balcony by Deejay Mad-d, DJ UNEAK and Deejay Pilé Air"
-        place:
-            name: 'Café d''Anvers (Official)'
-            location:
-                city: Antwerp
-                country: Belgium
-                latitude: 51.22624
-                longitude: 4.40421
-                street: 'Verversrui 15'
-                zip: '2000'
-            id: '52796158499'
-        timezone: Europe/Brussels
-        start_time: '2017-05-13T23:00:00+0200'
-    1336249723090586:
-        id: '1336249723090586'
-        name: 'Hermes x Super Thursdays x Gratis Vat'
-        description: "Super Thursdays Invites Hermes!\nGratis Vat - Gratis Inkom"
-        place:
-            name: 'Café d''Anvers (Official)'
-            location:
-                city: Antwerp
-                country: Belgium
-                latitude: 51.22624
-                longitude: 4.40421
-                street: 'Verversrui 15'
-                zip: '2000'
-            id: '52796158499'
-        timezone: Europe/Brussels
-        start_time: '2017-05-11T23:00:00+0200'
-    933070410128954:
-        id: '933070410128954'
-        name: 'TPIA with Goldfox & Smos'
-        description: "Each month we give you multiple opportunities to let the beast inside of you go! You can roar, you can howl, you can make noises we've never heard before. \n\nAt our #TPIA resident nights you have a valid reason to dance without boundaries and to enjoy quality house and techno music all night long! \n\nAnimal trainers at your service this night are:\n- Goldfox\n- DeeJay Smos\nWe are not responsible for future animalistic behavior but in case you do transform let us know on Facebook or Instagram with the hashtag #TPIA !\n\nSecond Room: Bass Balcony by Deejay Mad-d, DJ UNEAK and Deejay Pilé Air"
-        place:
-            name: 'Café d''Anvers (Official)'
-            location:
-                city: Antwerp
-                country: Belgium
-                latitude: 51.22624
-                longitude: 4.40421
-                street: 'Verversrui 15'
-                zip: '2000'
-            id: '52796158499'
-        timezone: Europe/Brussels
-        start_time: '2017-05-06T23:00:00+0200'
-    1872318999652789:
-        id: '1872318999652789'
-        name: 'Café d''Anvers presents: Gaiser live + Fabio Florido'
-        description: "Café d’Anvers presents:\n\nMain Room\nJon Gaiser LIVE\nFabio Florido\nMichael Thoelen\nArno Stolz\n\n▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\nGaiser\n\nThere’s no ego, just music, when Jon Gaiser brings his live act to the club. Those who have met Gaiser will know he appreciates a good joke and an even better bass line. An avid producer with an arsenal of sounds at his disposal in the booth and inside the studio, it is no wonder that he has commandeered everyone’s attention.\n\nFabio Florido\n\nEvery dancer, every darkened club, every DJ, and every artist that FABIO FLORIDO encounters leaves an indelible impression on him. In his own words, each of his life's interactions has culminated in him arriving at this exact point: balancing his compulsive passion for music creation with his passionate consumption of nightlife."
-        place:
-            name: 'Café d''Anvers (Official)'
-            location:
-                city: Antwerp
-                country: Belgium
-                latitude: 51.22624
-                longitude: 4.40421
-                street: 'Verversrui 15'
-                zip: '2000'
-            id: '52796158499'
-        timezone: Europe/Brussels
-        start_time: '2017-05-05T23:00:00+0200'
     148526952351876:
         id: '148526952351876'
         name: 'We Play House - 10 Years'
-        description: "We are happy to celebrate the 10 year anniversary of the Belgian label We Play House Recordings in Ampere on June 2nd. \n\nThrow in a little acid, some jazziness, a little deep techno and you're finally ready to understand why We Play House records stand out in a market saturated with reissues and throwbacks. For this label and its followers, house is just as fresh, relevant and diverse as it has ever been. Most important, though, is that house is the starting point for everything that comes after, helping maintain a connection to the past while simultaneously pushing forward. \n\nFor this label and its followers, house is just as fresh, relevant and diverse as it has ever been. Most important, though, is that house is the starting point for everything that comes after, helping maintain a connection to the past while simultaneously pushing forward. \n\nPre-sale tickets are online: €8 > https://goo.gl/fkAiXh\n\nLINE UP:\n\nTama Sumo & Lakutis (Ostgut Ton, Your Records)\nRed D (We Play House) \nKiani & his Legion B2B Konna\n\nSoundcloud: https://soundcloud.com/we-play-house-recordings"
+        description: "We are happy to celebrate the 10 year anniversary of the Belgian label We Play House Recordings in Ampere on June 2nd. \n\nThrow in a little acid, some jazziness, a little deep techno and you're finally ready to understand why We Play House recordings stand out in a market saturated with reissues and throwbacks. For this label and its followers, house is just as fresh, relevant and diverse as it has ever been. Most important, though, is that house is the starting point for everything that comes after, helping maintain a connection to the past while simultaneously pushing forward. \n\nFor this label and its followers, house is just as fresh, relevant and diverse as it has ever been. Most important, though, is that house is the starting point for everything that comes after, helping maintain a connection to the past while simultaneously pushing forward. \n\nPre-sale tickets are online: €8 > https://goo.gl/fkAiXh\n\nLINE UP:\n\nTama Sumo & Lakuti (Ostgut Ton, Your Records)\nRed D\nKiani & his Legion B2B Konna\n\nSoundcloud: https://soundcloud.com/we-play-house-recordings"
         place:
             name: Ampere
             location:
                 city: Antwerp
                 country: Belgium
-                latitude: 51.211578781
-                longitude: 4.42205194195
+                latitude: 51.2115220419
+                longitude: 4.42205531422
                 street: 'Simonsstraat 21'
                 zip: '2018'
             id: '281308288730977'
@@ -176,14 +97,14 @@ entries:
     293441931081789:
         id: '293441931081789'
         name: 'Ampere presents Byron the Aquarius & Chaos in the CBD'
-        description: "“I think that’s what music is missing: Live frequencies.\nI miss those days when people just created from the love of music.”  \n\nBYRON THE AQUARIUS  \nsound signature - wild oats (US)\n\nCHAOS IN THE CBD \nmule musiq - rhythm section (NZ)\n\nARNE \nsunday matinee - ampere.\n\nPIRRÈS\nin your face - ampere.\n\n\nWhen Byron The Aquarius talks about live frequencies, his enthusiasm is infectious. A keys player by trade, Byron’s love for melody and harmony has consistently drawn the attention of electronic music’s leading labels and producers. The same love and harmony can be found with our other headliners this night.\n\nhttps://soundcloud.com/byron-the-aquarius\n\nChaos in the CBD are longstanding DJ/production duo, the brothers write and DJ emotionally sophisticated club music with an exuberant party edge. Working with motifs drawn from a historical continuum of house music which stretches back well into the eighties, the brothers fold influence abstracted from RnB, pop and beyond into the mix. Inspired by legendary figures like Todd Edwards, Moodymann, and Thomas Bangalter, they create slow burning beat ballads which pay homage to the timeless classics of dance.\n\nhttps://soundcloud.com/chaos-in-the-cbd\n\ntickets available € 10 \nwww.ampere-antwerp.com/tickets"
+        description: "“I think that’s what music is missing: Live frequencies.\nI miss those days when people just created from the love of music.”  \n\nBYRON THE AQUARIUS  \nsound signature - wild oats (US)\n\nCHAOS IN THE CBD \nmule musiq - rhythm section (NZ)\n\nARNE \nsunday matinee - ampere.\n\nPIRRÈS\nin your face - ampere.\n\nWhen Byron The Aquarius talks about live frequencies, his enthusiasm is infectious. A keys player by trade, Byron’s love for melody and harmony has consistently drawn the attention of electronic music’s leading labels and producers. The same love and harmony can be found with our other headliners this night.\n\nhttps://soundcloud.com/byron-the-aquarius\n\nChaos in the CBD are longstanding DJ/production duo, the brothers write and DJ emotionally sophisticated club music with an exuberant party edge. Working with motifs drawn from a historical continuum of house music which stretches back well into the eighties, the brothers fold influence abstracted from RnB, pop and beyond into the mix. Inspired by legendary figures like Todd Edwards, Moodymann, and Thomas Bangalter, they create slow burning beat ballads which pay homage to the timeless classics of dance.\n\nhttps://soundcloud.com/chaos-in-the-cbd\n\ntickets available € 10 \nhttps://goo.gl/aRVmKL"
         place:
             name: Ampere
             location:
                 city: Antwerp
                 country: Belgium
-                latitude: 51.211578781
-                longitude: 4.42205194195
+                latitude: 51.2115220419
+                longitude: 4.42205531422
                 street: 'Simonsstraat 21'
                 zip: '2018'
             id: '281308288730977'
@@ -198,42 +119,154 @@ entries:
             location:
                 city: Antwerp
                 country: Belgium
-                latitude: 51.211578781
-                longitude: 4.42205194195
+                latitude: 51.2115220419
+                longitude: 4.42205531422
                 street: 'Simonsstraat 21'
                 zip: '2018'
             id: '281308288730977'
         timezone: Europe/Brussels
         start_time: '2017-05-24T22:00:00+0200'
-    1922168364687171:
-        id: '1922168364687171'
-        name: 'Ampere presents a night with Marcel Dettmann'
-        description: "DJ and producer Marcel Dettmann return's back to Ampere for an extended set on Friday the 19th of May, no introduction needed but for those still in the dark. Marcel is recognized as one of the most influential proponents of contemporary techno. Widely associated with iconic trademarks including Berlin, Berghain and Hard Wax, Dettmann stays true to his roots by consistently innovating his interpretation of electronic music, integrating art with the scene.\n\nMARCEL DETTMANN * ostgut ton * mdr *\n\n*Early Dettmann  € 10,00 EUR\t\n*Regular Dettmann € 15,00 EUR\n\nGet your tickets here: https://goo.gl/LJO5wi\n\nWatch this page for more info and support."
+    215207372313996:
+        id: '215207372313996'
+        name: 'Fuse presents: Initiate with Giorgio Gigli, Ness'
+        description: "Room.02 — Initiate\nGiorgio Gigli extended set\nNess  live\nGround tactics live \nBétøn hybrid live\nHawkan\n\nVisuals by Airem\n\n»»»\nwww.fuse.be\nBefore midnight: €8\nAfter midnight: €12\nPresale: €10"
         place:
-            name: Ampere
+            name: Fuse
             location:
-                city: Antwerp
+                city: Brussels
                 country: Belgium
-                latitude: 51.211578781
-                longitude: 4.42205194195
-                street: 'Simonsstraat 21'
-                zip: '2018'
-            id: '281308288730977'
+                latitude: 50.8354
+                longitude: 4.34469
+                street: 'Blaesstraat 208'
+                zip: '1000'
+            id: '16453782010'
         timezone: Europe/Brussels
-        start_time: '2017-05-19T23:00:00+0200'
-    1577799848929359:
-        id: '1577799848929359'
-        name: 'Into The Episode / Ampere 2 year - Sonja Moonear, Rhadoo, Barac'
-        description: "Into the Episode is spreading the vibe of the festivals Into the Valley, Into the Factory and Into the Castle. The festivals are produced by the organization Music Goes Further with the purpose of shedding light to the festival and her scene all over the world. \n\nThis time we come back to Ampere in Antwerp after an amazing into the valley event last year with Raresh and Praslea, with good vibes still in our memories. This time will be extra special as Ampere will be celebrating the second anniversary of the venue. Since opening the sustainable creative events space on the 15th of May with 2015 it has been a rollercoaster ride. Honored to receive the world's best in music and receiving the first place as \"best club\" at the annual Red Bull Elektropedia awards last year. Not bad for a venue that still needs to celebrate it's 2nd anniversary. \n\nSo tonight we celebrate it extra hard and extra loud with our friends from Into the Valley, Time to go deep and we like all our friends to join us. \n\nAmpere and Into The Valley proudly present:\n\nSonja Moonear (Perlon) DE \nRhadoo (Arpiar) RO\nBarac (Metereze) RO\n\nTickets: Presale € 12 \n\nInto the Valley, Into the Factory or Into the Castle festival 2017 tickets = free entry\n\n*\n\nInto the Valley will take place in Rummu, Estland, June 29 - 1 July 2017\nMore info: http://www.musicgoesfurther.com/festival/into-the-valley\n\n*\n\nInto the Factory will take place in Stora Vika, Sweden, August 10-12 2017\nMore info: http://www.musicgoesfurther.com/festival/into-the-factory\n\n*\n\nInto the Castle will take place in Cape Town, South Africa, January 26-27 2018\nMore info: http://www.musicgoesfurther.com/festival/into-the-castle"
+        start_time: '2017-06-03T23:00:00+0200'
+    1334891586601327:
+        id: '1334891586601327'
+        name: 'Fuse presents: Roomies with Eli Verveine, Giammarco Orsini'
+        description: "Room.02 —  ROOMIES\neli verveine\nGiammarco Orsini\nFernando Costantini\nPierre\n\n»»»\nwww.fuse.be\nBefore midnight: €8\nAfter midnight: €12\nPresale: €10"
         place:
-            name: Ampere
+            name: Fuse
             location:
-                city: Antwerp
+                city: Brussels
                 country: Belgium
-                latitude: 51.211578781
-                longitude: 4.42205194195
-                street: 'Simonsstraat 21'
-                zip: '2018'
-            id: '281308288730977'
+                latitude: 50.8354
+                longitude: 4.34469
+                street: 'Blaesstraat 208'
+                zip: '1000'
+            id: '16453782010'
         timezone: Europe/Brussels
-        start_time: '2017-05-13T23:00:00+0200'
+        start_time: '2017-05-27T23:00:00+0200'
+    1925097084369051:
+        id: '1925097084369051'
+        name: 'KNTXT w/ Charlotte de Witte - All Night Long'
+        description: "A new edition of KNTXT, the techno concept hosted by Charlotte de Witte, is coming up with a - for the very first time - all night long set from our host. \n\nPS: The day after is a bank holiday! \n\n❭ ❭ ❭ LINE UP\n\n› Charlotte de Witte (Sleaze Records⎟Host)\n\nVisuals by Malika Maria at wOrk.\n\n--\n\nTICKETS: http://fuse.be/cevent/kntxt-w-charlotte-de-witte-all-night-long/\n\nDOORSALE: €15\n\n-- \n\nIf there’s one DJ about to take the world by storm, it’s Charlotte de Witte. Never shying away from a challenge, always malling her career and music the way she envisions it. And scorching through a myriad of uncompromising, agressive techno sets across Europe every single weekend. \n\nNo surprise then, that the rest of the world is calling for Charlotte. After already having toured Asia, the U.S. and Canada, she’ll be heading to Australia, New Zealand, Central and South America next. Few dj’s belong to the group that can work on that level - from the biggest stages to the sweatiest basement raves. \n\nStill her heart remains tied to the both the underground Techno scene and Belgium where she can be found championing new talent both on her Saturday night radio show, ‘Playground Charlotte de Witte’ on Studio Brussels, Belgium’s leading radio station, and at KNTXT de Witte’s residency at Brussels Techno institution Fuse.\n\nHaving moved into production, de Witte has wasted no time in establishing herself as a serious talent in the studio as well as behind the decks. But whilst a Charlotte de Witte DJ set is guaranteed to get you moving, Charlotte’s own music has provided her with a chance to reveal another side. \n\nHer agressive, stripped-down approach to her own tracks is a testament to that beforementioned dark side, while the tracks also often feature her own vocals. “Making music really gives me a chance to tap into the more emotional side of electronic music that I love. Music that has that melancholic side to it, I just find it so much more interesting, whether DJ’ing, producing or just listening myself at home.” \n\nHer release on Tiga’s Turbo Recordings “Weltschmerz EP” gained massive national and internatonal support. For now, with her upcoming releases, her ongoing radio show, Fuse residency and a packed tour diary de Witte shows no sign of slowing down. Despite her love of all things dark, the future for Charlotte de Witte looks very bright indeed. \n\nThis is only the beginning, it seems. “My Feeling”, from Charlotte’s follow-up EP on Turbo Recordings “Sehnsucht”, was Mixmag’s Track of 2016, the year in which Charlotte won Red Bull Elektropedia’s Award for best producer in her native Belgium. To top it all off, Trax Magazine dubbed her ‘nouvel espoir de la techno belge’ while Tsugi coined her “revelation for 2017”. \n\n--\n\nKNTXT /ˈkɒntɛkst/ noun\n\"The circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood.\""
+        place:
+            name: Fuse
+            location:
+                city: Brussels
+                country: Belgium
+                latitude: 50.8354
+                longitude: 4.34469
+                street: 'Blaesstraat 208'
+                zip: '1000'
+            id: '16453782010'
+        timezone: Europe/Brussels
+        start_time: '2017-05-24T23:00:00+0200'
+    1367610096640816:
+        id: '1367610096640816'
+        name: 'Extrema Outdoor Official Afterparty with Marcel Dettmann'
+        description: "After hosting a stage at the mighty Extrema Outdoor Belgium 2017 (XOBE17) festival, we can't resist doing a little afterparty at our factory. Kompass and Extrema Outdoor Belgium present the official XO17 afterparty with ...\n\nMARCEL DETTMANN (MDR Official, Ostgut Ton - Berlin)\n\n---\n\nKompass stage at Extrema Outdoor with Ben Klock, MARCEL DETTMANN, Kobosil, Marcel Fengler, Trish Van Eynde and Massimo Mephisto"
+        place:
+            name: Kompass
+            location:
+                city: Gent
+                country: Belgium
+                latitude: 51.0191584
+                longitude: 3.7398818
+                street: 'Ottergemsesteenweg-zuid 717A'
+                zip: '9000'
+            id: '934239246594888'
+        timezone: Europe/Brussels
+        start_time: '2017-06-04T23:00:00+0200'
+    210353959449228:
+        id: '210353959449228'
+        name: 'Vision / Objekt, Byetone, Kangding Ray, Resom'
+        description: "Vision is an audiovisual event where artist and visitor can share the experience of creating and receiving through the synergy of live sound and visuals. \n\nFor our first event we focus on raster-noton, inviting co-founder Byetone and Kangding Ray. Other live a/v performances by Klof (LFO.),  Siwei (form and function) + the Kompass natives Oliver Alex and LAYR&Massimo Mephisto. \nDJ performances by Magellan and Sa Pa (Giegling/MDR Official). Extended closing by Objekt (PAN/ Leisure System)\n\nThe second floor will be more laid back, hosting dj sets from Lux (Giegling/ IO), resom (://about party), KooDoo (Moodfamily) and Yentl. (Roots of Minimal). \nAccompanied by live performances of cmd q (KANN) and AMyn (Moodfamily / Apollo Records).\n\nLimited earliest bird tickets are available via Resident Advisor\nwww.residentadvisor.net/event.aspx?956135\n\nPlease respect our no photography/videography policy during the showcase. We'd ask you to use your mobile devices outside as this show can be very dark and any light sources may confuse your Vision.\n\n18+"
+        place:
+            name: Kompass
+            location:
+                city: Gent
+                country: Belgium
+                latitude: 51.0191584
+                longitude: 3.7398818
+                street: 'Ottergemsesteenweg-zuid 717A'
+                zip: '9000'
+            id: '934239246594888'
+        timezone: Europe/Brussels
+        start_time: '2017-05-27T18:00:00+0200'
+    948524231950048:
+        id: '948524231950048'
+        name: 'Ohm''s Acid Trip w/ Tin Man, Boston 168 live & Alien Rain'
+        description: "That poisonous addiction,\nThat destroys and dissolves everything.\nIt's my ultimate sin,\nDrip on me, pretty acid rain.\n\nIt had to happen one day: Ohm’s going to Kompass Klub! And for the occasion Georg Ohm is bringing you an acid only night. \n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nLINE UP\n\nΩ TIN MAN (Acid Test, Infrastructure New York, AT)\nΩ Boston 168 LIVE (Enemy Records, Involve Records, IT)\nΩ Alien Rain aka Milton Bradley (Alien Rain, DE)\nΩ spacid (Retro Acid, Kozzmozz, BE)\nΩ Pilose (Ohm, BE)\n\nVisuals by the29nov films\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nTICKETS:  http://bit.ly/2mG3uJ6\n\nWave 1: €10 (SOLD OUT)\nWave 2: €13 (SOLD OUT)\nWave 3: €16  (On Sale)\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nVENUE\nKompass Klub\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nDesign by Phaze Øne"
+        place:
+            name: Kompass
+            location:
+                city: Gent
+                country: Belgium
+                latitude: 51.0191584
+                longitude: 3.7398818
+                street: 'Ottergemsesteenweg-zuid 717A'
+                zip: '9000'
+            id: '934239246594888'
+        timezone: Europe/Brussels
+        start_time: '2017-05-26T23:00:00+0200'
+    1705389813094587:
+        id: '1705389813094587'
+        name: 'Ben Sims & Dasha Rush at Kompass'
+        description: "Kompass presents ... \n\nBen Sims \nDasha Rush\n\nSupport by DJ David Asko\n\nWith over 20 years experience under his belt, Ben Sims has a well-deserved reputation as one of the world's most in-demand and leading techno DJs - a tight, energetic mixer who skilfully weaves together his own distinctive blend of tough funk and hardgrooves, often using three-deck wizardry and plenty of dexterity.\n\nDasha Rush is a Russian-born artist who sees the genre as a starting place, not a destination. She is a respected and well-traveled DJ and live performer, but her work is equally focused away from the dance floor, and sometimes away from the music itself. Combining her activities as a dj and techno producer on her Fullpanda imprint, which founded in 2005, with other multi-artistic collaborations alongside visual artists or dancers."
+        place:
+            name: Kompass
+            location:
+                city: Gent
+                country: Belgium
+                latitude: 51.0191584
+                longitude: 3.7398818
+                street: 'Ottergemsesteenweg-zuid 717A'
+                zip: '9000'
+            id: '934239246594888'
+        timezone: Europe/Brussels
+        start_time: '2017-05-24T23:00:00+0200'
+    239350379880717:
+        id: '239350379880717'
+        name: 'Extrema Outdoor FINAL official after party at Labyrinth Club'
+        description: "SUN. 04.06 FINAL OFFICIAL AFTER PARTY EXTREMA OUTDOOR\n\nAs we all know you don’t wanna go home at 23h after getting all psyched up at Extrema Outdoor… we’re organising the official after party at Labyrinth Club in Hasselt, which is only 15 minutes away from the festival!\n\nAll shuttles leaving from the festival site after 23h to the train station of Hasselt will make a first stop at Labyrinth Club, so you don’t have to worry how to get there.\n\nMultiple headlining artists will join us to the club and play in front of a select crowd. Make sure to be one of them! ;)\n\nBecause the party never ends…\n\n▦ Tickets and info: www.labyrinthclub.be\n▦ Table reservations mail to: info@labyrinthclub.be\n\nFOLLOW US\nwww.instagram.com/labyrinthclubhasselt\nwww.twitter.com/labyrinthclubbe"
+        place:
+            name: 'Labyrinth Club'
+        timezone: Europe/Brussels
+        start_time: '2017-06-04T23:00:00+0200'
+    171725133353469:
+        id: '171725133353469'
+        name: 'Extrema Outdoor official after party at Labyrinth Club'
+        description: "SAT 03.06 OFFICIAL AFTER PARTY EXTREMA OUTDOOR\n\nAs we all know you don’t wanna go home at 23h after getting all psyched up at Extrema Outdoor… we’re organising the official after party at Labyrinth Club in Hasselt, which is only 15 minutes away from the festival!\n\nAll shuttles leaving from the festival site after 23h to the train station of Hasselt will make a first stop at Labyrinth Club, so you don’t have to worry how to get there.\n\nMultiple headlining artists will join us to the club and play in front of a select crowd. Make sure to be one of them! ;)\n\nBecause the party never ends…\n\n▦ Tickets and info: www.labyrinthclub.be\n▦ Table reservations mail to: info@labyrinthclub.be\n\nFOLLOW US\nwww.instagram.com/labyrinthclubhasselt\nwww.twitter.com/labyrinthclubbe"
+        place:
+            name: 'Labyrinth Club'
+        timezone: Europe/Brussels
+        start_time: '2017-06-03T23:00:00+0200'
+    174863649702962:
+        id: '174863649702962'
+        name: 'Butch, Nick Curly, Raw District and Unclesand'
+        description: "▦ BUTCH (DE, Otherside,Desolat)\nwww.soundcloud.com/superbutch \n▦ NICK CURLY (DE, 8-Bit, Cecille )\nwww.soundcloud.com/nickcurly\n▦ RAW DISTRICT (BE, Innervisions)\nwww.soundcloud.com/raw-district \n▦ UNCLESAND (BE, Proper Musique)\nwww.soundcloud.com/unclesand \n\nConstantly working in parallels - drenched by a potent mixture of juxtaposition and fluidity in both his sets and his productions - Bülent Gürler AKA BUTCH, fuses the grey-area space between music of the body and mind. With over 20 years consumed by a thirst for electronic music, the Alzey-born, Mainz raised entity has released on leading imprints such as Desolat, Cocoon, Rekids, Sei Es Drum and beyond, while maintaining a solid DJ schedule that’s seen him open the minds of crowds at fabric, Time Warp and his residency at Berlin’s Watergate. Techno heads love Butch, house heads love Butch, as well as the deep and dirty and the light & bright. Few artists flow through genres and emotional landscapes with such ease and fluidity as Bulent, challenging preconceptions of the dance-floor and the expected outcome in the process. The spark behind his excursions is natural: as a music lover he’s always stayed open to different styles and aesthetics. As an artist, he’s always allowed himself to express his take on each genre – it’s true that with Butch, you never know what to expect, other than consistently fresh and unique output. www.facebook.com/cometobutch/ \n\nEver since his memorable breakthrough in 2008, NICK CURLY has established himself as one of the pre-eminent international acts in the modern era of house music. Nick’s run of timeless, club-ready 12”’s and remixes have constantly and consistently found the mark amongst both music fans and his DJ peers. He currently stands at #4 in industry bible Resident Advisor’s most charted acts of all-time, sitting in alongside luminaries Maceo Plex, Butch, Radio Slave and Maya Jane Coles in the top 5, and he has become one of the world’s most in-demand DJs. The majority of Nick’s output has appeared on his own 8Bit label, as well as the now defunct – but memorable – Cecille Records. Industry titans such as Cocoon, Space Ibiza and Defected have all played significant roles in the Nick Curly story so far and continues into 2015 with Adam Beyer’s Truesoul imprint and Nick’s own ‘Trust’ parties coming into the mix and helping power his future. www.facebook.com/nickcurlyofficial/\n \nRAW DISTRICT is the fledgling house project from Belgian duo Vernon Bara and Massimo DaCosta. No newcomers to dance music, under the Vernon&DaCosta, the pair have released music on labels such as OM Records, AMA Rec, Robsoul, Aroma, OFF, Icon, Doubledown and many more. They have remixed artists including Brett Johnson, Fred Everything, Style of Eye, Miguel Migs and JT Donaldson, garnering support from great DJs like Luciano, Ricardo Villalobos, Jamie Jones, Mark Farina and DJ Sneak. Vernon has also made more techno-focussed tracks for Hot Creation and Supplement Facts under another moniker, Ultrasone alongside Igor Vicente. Early in 2013, they decided to start the new side project as ‘Raw District’ in order to focus on the deeper and darker side of house music. In their own words, “Raw District tracks feature fewer samples and more organic influences…the trademark soul, funk and disco influences are still evident, mixed up with the fresh European sounds coming straight out of Berlin.”  With a few releases on some of the most established labels such Crosstown Rebels, Souvenir Music or Defected they undoubtedly secured themselves as in-demand and talented producers.www.facebook.com/rawdistrict/ \n\nUNCLESAND is a duo of two guys. Two guys who have been friends for the past 2 decades. Both of them, Jens and Klaas, have been passionated about music for ages. That passion can be found in various musical projects where they appear solo or together and in 2013 their musical activities get a final form: Unclesand. Whipping up tech house with some minimal and techno influences is the very brief summary you could assign to their perfomances. With appearances at events such as Amsterdam Dance Event (Do Not Sleep ADE), Solar Weekend, Thé Dansant and in clubs like Labyrinth Club, Club Vaag, Café d'Anvers, Forty Five, Decadance, La Rocca where they shared decks with Marco Carola, Pan-Pot, Matthias Tanzmann, Anja Schneider, Cuartero, Darius Syrossian, Marco Faraone, Joris Voorn and many more. www.facebook.com/weareunclesand/ \n\n▦ Tickets www.labyrinthclub.be/tickets\n▦ Table reservations mail to: info@labyrinthclub.be\nFOLLOW US\nwww.instagram.com/labyrinthclubhasselt\nwww.twitter.com/labyrinthclubbe"
+        place:
+            name: 'Labyrinth Club'
+            location:
+                city: Hasselt
+                country: Belgium
+                latitude: 50.9332263546
+                longitude: 5.36439657211
+                street: 'Gouverneur Verwilghensingel 70'
+                zip: '3500'
+            id: '217246480168'
+        timezone: Europe/Brussels
+        start_time: '2017-05-27T23:00:00+0200'

@@ -1,0 +1,200 @@
+$flyoutnavtiming: 200ms;
+
+.flyout {
+  @include transitions(transform, $flyoutnavtiming);
+  width: 240px;
+  transform: translateX(240px);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+  overflow-y: scroll;
+  background: $white;
+  display: block;
+  z-index: $zindex-layer-2;
+  &:before {
+    @extend .visuallyhidden;
+    content: 'flyout';
+    @include breakpoint($breakpoint-flyout) {
+      content: '';
+    }
+  }
+  &--content {
+    margin-top: $rh-xxs;
+  }
+  .region {
+    position: relative;
+  }
+  // .flyout-enabled & {
+  //   display: block;
+  // }
+  .flyout-active & {
+    transform: translateX(100px);
+  }
+  ul {
+    @include transitions(transform);
+    @include listreset;
+    width: 100%;
+    li {
+      @include transitions(opacity, .4s);
+      transition-delay: ($flyoutnavtiming + 50);
+      opacity: 0;
+      .flyout-active & {
+        transform: translateX(0);
+        opacity: 1;
+      }
+      + li {
+        border-top: 1px solid darken($gray-0, 4%);
+      }
+    }
+    ul {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      transform: translateX(240px);
+    }
+  }
+  a {
+    display: block;
+    padding: $rh-xsm;
+    @include link-variant($color-text);
+    @include fsRem($font-size-med);
+    font-family: $font-family-sans;
+    text-decoration: none;
+    &:not(:only-child) {
+      &:after {
+        content: '\f111';
+        float: right;
+        font-family: $font-family-icons;
+      }
+    }
+    &:hover,
+    &.active {
+      color: $color-primary;
+      background-position: 0 0;
+    }
+  }
+  .nav + .nav {
+    margin-top: $rh-sml;
+    a {
+      @include fsRem($font-size-lrg);
+    }
+  }
+  .active {
+    > ul {
+      transform: translateX(0);
+    }
+  }
+  .flyout__back,
+  .flyout__close {
+    background: $white;
+    border: $white;
+    font-family: $font-family-sans;
+    @include fsRem($font-size-med);
+    color: $black;
+    font-style: normal;
+    text-transform: uppercase;
+    .icon {
+      margin-right: $rh-xxs;
+      color: $color-primary;
+      &:before {
+        vertical-align: baseline;
+      }
+    }
+    &:after {
+      display: none;
+    }
+  }
+  @include breakpoint($breakpoint-flyout) {
+    display: none;
+  }
+}
+
+.flyout__overlay {
+  @include absolute-fill;
+  z-index: $zindex-layer-1;
+  background: $gray-0;
+  background: rgba($black, .5);
+  display: none;
+  opacity: 0;
+  height: 100vh;
+  cursor: pointer;
+  @include transitions(opacity);
+  .flyout-active & {
+    display: block;
+    opacity: 1;
+  }
+}
+
+%ext-hamburger-line {
+  position: absolute;
+  display: inline-block;
+  width: 18px;
+  height: 2px;
+  background: $black;
+  border-radius: 1px;
+  transition: all 200ms;
+}
+
+.flyout__link {
+  @include link-variant($black);
+  font-weight: $font-weight-bold;
+  position: relative;
+  display: inline-block;
+  padding-top: 10px;
+  padding-right: 24px;
+  padding-bottom: 10px;
+  margin: 0 5px 0 5px;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: $letter-spacing-sml;
+  .lines {
+    @extend %ext-hamburger-line;
+    top: 1.3em;
+    right: 0;
+    &:before {
+      @extend %ext-hamburger-line;
+      content: '';
+      top: -5px;
+      transform-origin: 50% 50%;
+    }
+    &:after {
+      @extend %ext-hamburger-line;
+      content: '';
+      top: 5px;
+      transform-origin: 50% 50%;
+    }
+  }
+  &.is-open {
+    .lines {
+      background: transparent;
+      &:before {
+        top: 0px;
+        transform: rotate3d(0, 0, 1, 45deg);
+      }
+      &:after {
+        top: 0px;
+        transform: rotate3d(0, 0, 1, -45deg);
+      }
+    }
+  }
+  @include breakpoint($breakpoint-flyout) {
+    display: none;
+  }
+}
+
+.flyout-enabled {
+  @include transitions(transform);
+  transform: translateX(0);
+}
+
+.flyout-active {
+  @include transitions(transform, 400ms);
+  transform: translateX(-100px);
+  .page-wrap {
+    height: 100vh;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+}
