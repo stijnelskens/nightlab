@@ -10,6 +10,11 @@
     }
   }
 
+  &__image {
+    width: 150px;
+    margin: 0 auto;
+  }
+
   &__img {
     overflow: hidden;
     img {
@@ -18,6 +23,10 @@
       max-width: 100%;
       height: auto;
     }
+  }
+
+  &__linkerd {
+    text-decoration: none;
   }
 
   &__link {
