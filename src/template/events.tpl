@@ -6,10 +6,10 @@
         <div class="container">
             <div class="grid spacer">
                 <div class="grid__12 grid--bp-med__6">
-                    {image src='img/svg/ampere.svg' var='image' push=true}
-                    <div class="card__image">
-                        <img src="{$image.src}" srcset="{$image.srcset}" alt="Ampere">
-                    </div>
+                    {*{image src='img/svg/ampere.svg' var='image' push=true}*}
+                    {*<div class="card__image">*}
+                        {*<img src="{$image.src}" srcset="{$image.srcset}" alt="Ampere">*}
+                    {*</div>*}
                     <span class="visuallyhidden"><h2>Ampere</h2></span>
                     {foreach $events as $event}
                         {if $event.place.name == 'Ampere'}
@@ -33,10 +33,10 @@
                     {/foreach}
                 </div>
                 <div class="grid__12 grid--bp-med__6">
-                    {image src='img/svg/fuse.svg' var='image' push=true}
-                    <div class="card__image">
-                        <img src="{$image.src}" srcset="{$image.srcset}" alt="Fuse">
-                    </div>
+                    {*{image src='img/svg/fuse.svg' var='image' push=true}*}
+                    {*<div class="card__image">*}
+                        {*<img src="{$image.src}" srcset="{$image.srcset}" alt="Fuse">*}
+                    {*</div>*}
                     <span class="visuallyhidden"><h2>Fuse</h2></span>
                     {foreach $events as $event}
                         {if $event.place.name == 'Fuse'}
@@ -62,10 +62,10 @@
             </div>
             <div class="grid spacer">
                 <div class="grid__12 grid--bp-med__6">
-                    {image src='img/svg/kompass.svg' var='image' push=true}
-                    <div class="card__image">
-                        <img src="{$image.src}" srcset="{$image.srcset}" alt="Fuse">
-                    </div>
+                    {*{image src='img/svg/kompass.svg' var='image' push=true}*}
+                    {*<div class="card__image">*}
+                        {*<img src="{$image.src}" srcset="{$image.srcset}" alt="Fuse">*}
+                    {*</div>*}
                     <span class="visuallyhidden"><h2>Kompass</h2></span>
                     {foreach $events as $event}
                         {if $event.place.name == 'Kompass'}

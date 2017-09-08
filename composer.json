@@ -5,9 +5,12 @@
     "license": "MIT",
     "prefer-stable": true,
     "require": {
-        "brendt/stitcher": "dev-master",
         "pageon/stitcher-fb-events": "dev-master",
         "mmucklo/krumo": "dev-master#944b2fc6b301f9f53b9ec2cb80024dee691d998b",
-        "pageon/stitcher-core": "@beta"
+        "pageon/stitcher-core": "dev-develop",
+        "pageon/html-meta": "^2.0"
+    },
+    "require-dev": {
+        "larapack/dd": "^1.1"
     }
 }

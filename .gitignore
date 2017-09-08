@@ -7,3 +7,4 @@ vendor/
 .cache
 *.sublime-project
 *.sublime-workspace
+/public/css
